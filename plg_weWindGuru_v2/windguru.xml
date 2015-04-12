@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="2.5.8" type="plugin" group="content" method="upgrade">
+	<name>Content - WindGuru</name>
+	<author>Chris Davies-Barnard</author>
+	<creationDate>Jan 2013 (Version 1 - Jan 2010)</creationDate>
+	<copyright>Copyright (C) 2010 Web-Ethical. All rights reserved.</copyright>
+	<license>GNU General Public License</license>
+	<authorEmail>joomla@web-ethical.co.uk</authorEmail>
+	<authorUrl>http://web.ethical.co.uk</authorUrl>
+	<version>2.0.0</version>
+	<description>This plugin makes it easy to put Wind Guru Forecasts inside Articles. It provides a simple wrapper to Vaclav's Windguru Plugin (currently version 1.7) Check the INSTALL Guide for details.</description>
+	<files>
+		<filename plugin="windguru">windguru.php</filename>
+		<folder>windguru-1.7</folder>
+	</files>
+	<noparams />
+</install>
